@@ -1,2 +1,2 @@
-<php include_once("FanpageComplete.html");?>
+<?php include_once("FanpageComplete.html");?>
 
