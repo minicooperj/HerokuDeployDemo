@@ -1,0 +1,74 @@
+<style>
+
+.red {
+	color: red;
+}
+
+.orange {
+	color: orange;
+}
+
+.blue {
+	color: blue;
+}
+
+.green {
+	color: green;
+}
+
+.big {
+	font-size: 30px;
+}
+
+.small {
+	 font-size: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.fontserif {
+	font-family: sans-serif;
+}
+
+.styledFont {
+	font-family: serif; color:green; font-size: 25px;  	
+}
+
+#styledImage {
+	border-width: 5px; border-style: double; border-color: orange;
+
+}
+
+#centerImage {
+	border-width: 5px; border-style: double; border-color: orange; display:block; margin:0 auto;
+}
+
+#list {
+	font-family: serif; color:orange; font-size: 25px; text-align: center;
+}
+
+.header{
+	text-align:center; color:white; font-size: 35px;
+}
+
+#linkVisited {
+	background-color: orange;
+    color: green;
+    font-weight: bold;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+</style>
